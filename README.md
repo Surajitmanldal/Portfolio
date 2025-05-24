@@ -1,12 +1,36 @@
-# React + Vite
+# 🚀 Personal Portfolio Website (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi! I'm **Surajit**, a frontend web developer and BCA student. This is my personal portfolio built using **React** and modern web technologies. It showcases my projects, skills, and a bit about me!
 
-Currently, two official plugins are available:
+🔗 **Live Site**: [https://myportfolio-azure-chi.vercel.app/]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ Built with React (SPA)
+- 🎨 Responsive & modern UI
+- 💼 Projects section with live demo links
+- 📧 Contact form (EmailJS)
+- 🌐 Smooth scrolling 
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: React, JSX, CSS Modules / Tailwind / Styled Components
+### 📦 Notable Packages Used
+
+| Package                          | Purpose                                     |
+|----------------------------------|---------------------------------------------|
+| `react-parallax-tilt`            | Adds tilt animation to cards or components |
+| `react-vertical-timeline-component` | Beautiful vertical timeline layout       |
+| `react-toastify`                 | Toast notifications (e.g. on form submit)  |
+| `react-typewriter-effect`        | Typewriter animation for text              |
+| `react-icons`                    | Icon library                               |
+| `emailjs-com`                    | Send email via form                        |
+
+
+---
+
+
