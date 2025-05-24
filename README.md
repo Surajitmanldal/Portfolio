@@ -36,5 +36,5 @@ Hi! I'm **Surajit**, a frontend web developer and BCA student. This is my person
 
 
 ```markdown
-![Home](public/screenshots/home.png)
+![Home](./public/screenshots/home.png)
 
